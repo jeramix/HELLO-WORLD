@@ -1,7 +1,7 @@
 <h1>Latest News and Updates</h1>
 
 
-<Bold><italic>SPORTS</Bold></italic>
+<Bold><italic><h2>SPORTS</h2></Bold></italic>
 
 1.ESPORTS
 2.OLYMPICS
