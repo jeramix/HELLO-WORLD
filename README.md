@@ -1,11 +1,10 @@
 <h1>Latest News and Updates</h1>
 
 
-- 
-- List
+<Bold><italic>SPORTS</Bold></italic>
 
-1. Numbered
-2. List
+1.ESPORTS
+2.OLYMPICS
 
 **Bold** and _Italic_ and `Code` text
 
